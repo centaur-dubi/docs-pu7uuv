@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://centaur-dubi.github.io/docs-pu7uuv/sitemap.xml
